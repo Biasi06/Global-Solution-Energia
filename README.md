@@ -38,7 +38,7 @@ A solução é um único script Python (`Gs sers principal.py`) que executa todo
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/Biasi06/Global-Solution-Energia.git](https://github.com/Biasi06/Global-Solution-Energia.git)
+    git clone [https://github.com/Biasi06/Global-Solution-Energia](https://github.com/Biasi06/Global-Solution-Energia)
     cd Global-Solution-Energia
     ```
 
